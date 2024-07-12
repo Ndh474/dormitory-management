@@ -1,0 +1,17 @@
+
+
+java:S1130"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(‰¼÷É
+~
+java:S1989("hHandle the following exceptions that could be thrown by "processRequest": IOException, ServletException.(‘ŸÑ
+o
+java:S19891"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ÚÓ–‰
+r
+java:S1989H"\Handle the following exception that could be thrown by "parseDouble": NumberFormatException.(ÇÏù§
+t
+java:S1989V"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Õô•¨üÿÿÿÿ
+o
+java:S1989Y"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ëÔ´³
+t
+java:S1989\"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Ù•¸ûüÿÿÿÿ
+n
+java:S1989`"SHandle the following exception that could be thrown by "sendRedirect": IOException.(¤ ğ×úÿÿÿÿ

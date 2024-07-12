@@ -1,0 +1,16 @@
+
+	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÎŠóÃ€2J$71577197-71e5-4e59-ac38-1cac990fea86
+}
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÓŠóÃ€2J$5dfc01bd-a11a-4be3-9429-b76feed66597
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ù’Ğ8ùŠóÃ€2J$525ff4d1-571c-4e06-a47e-bff27222898d
+~
+java:S6437#"6Revoke and change this password, as it is compromised.(ÊÁ¢êüÿÿÿÿ8Œ‹óÃ€2J$e8f85c01-57a5-4710-a955-cf30c83667dc
+p
+java:S1128"(Remove this unused import 'dao.DormDAO'.(…§¦¢ûÿÿÿÿ8—‹óÃ€2J$d2060541-7d97-4dd5-bd09-8d60b5c8870c
+t
+java:S1128"1Remove this unused import 'dao.impl.DormDAOImpl'.(ìÁ‘¿8˜‹óÃ€2J$d5adfcf4-2d3b-4e58-af4c-e25a5b3204c9
+y
+java:S1128"1Remove this unused import 'services.DormService'.(é¥íÂÿÿÿÿÿ8™‹óÃ€2J$a179a726-c908-4125-8873-1dc45e901f56
+‚
+java:S1128":Remove this unused import 'services.impl.DormServiceImpl'.(Öø†ªÿÿÿÿÿ8™‹óÃ€2J$bcdc812e-82bf-46f2-b6b6-8cdc967ea0ee

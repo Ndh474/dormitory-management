@@ -1,0 +1,7 @@
+
+
+java:S1130"yRemove the declaration of thrown exception 'jakarta.servlet.ServletException', as it cannot be thrown from method's body.(‰¼÷É
+n
+java:S1989#"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ªà¥Šøÿÿÿÿ
+~
+java:S1989)"hHandle the following exceptions that could be thrown by "processRequest": IOException, ServletException.(‘ŸÑ

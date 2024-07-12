@@ -1,0 +1,6 @@
+
+“
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¾þÑðùÿÿÿÿJ$c309e5f5-4679-4084-bd9a-26c3cafc5dca
+g	java:S106†"+Replace this use of System.out by a logger.(»ñ¶ƒJ$130a03e7-b6e7-4537-957f-ed82f483cb95
+g	java:S106‡"+Replace this use of System.out by a logger.(¼¸ç›J$8a99ca61-851a-4f74-9357-1ef095024bbb
+l	java:S106ˆ"+Replace this use of System.out by a logger.(ÿÄã÷üÿÿÿÿJ$17f02ded-ac50-440b-b6a8-ed0bd4c057f3
